@@ -78,15 +78,6 @@
 
 ---
 
-## 🐍 <b>Contribution Snake</b>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uebidev/uebidev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uebidev/uebidev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uebidev/uebidev/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
 ---
 
 ## 🚀 <b>Featured Projects</b>
@@ -134,32 +125,7 @@
 
 ---
 
-## 📈 <b>Coding Activity & Time Tracking</b>
 
-<div align="center">
-
-```text
-🌞 Morning     ████████░░░░░░░░░░░░   40.2%
-🌆 Daytime     ████████████░░░░░░░░   62.8% 
-🌃 Evening     ████████████████████   87.4%
-🌙 Night       █████████████░░░░░░░   68.1%
-
-💻 Operating Systems:
-Windows        ████████████████████   95.2%
-Linux          ██░░░░░░░░░░░░░░░░░░   4.8%
-
-📝 Editors:
-Visual Studio  ████████████████░░░░   78.3%
-VS Code        █████████░░░░░░░░░░░   21.7%
-
-💬 Languages:
-C#             ████████████████░░░░   76.5%
-Python         █████████░░░░░░░░░░░   18.2%
-HTML/CSS       ██░░░░░░░░░░░░░░░░░░   3.8%
-JavaScript     █░░░░░░░░░░░░░░░░░░░   1.5%
-```
-
-</div>
 
 ---
 
