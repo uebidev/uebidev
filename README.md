@@ -80,42 +80,16 @@
 
 ---
 
-## 🚀 <b>Featured Projects</b>
+## 🚀 <b>Best Projects</b>
 
 <div align="center">
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">🏪 TechCommerce-API</h3>
+ <td width="100%">
+<h3 align="center">🌐🏪 SimpleSalesApi</h3>
 <div align="center">  
-<a href="https://github.com/uebidev/TechCommerce-API">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=uebidev&repo=TechCommerce-API&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🎮 Mini-Mine</h3>
-<div align="center">
-<a href="https://github.com/uebidev/Mini-mine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=uebidev&repo=Mini-mine&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🖥️ WPF Projects</h3>
-<div align="center">
-<a href="https://github.com/uebidev/WPF">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=uebidev&repo=WPF&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">📱 First-MVVM</h3>
-<div align="center">
-<a href="https://github.com/uebidev/First-MVVM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=uebidev&repo=First-MVVM&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/uebidev/SimpleSalesApi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=uebidev&repo=SimpleSalesApi&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 </div>
 </td>
