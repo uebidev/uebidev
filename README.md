@@ -59,15 +59,6 @@
 <div align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-languages/?username=uebidev&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
 </div>
-
----
-
-## 🏆 <b>Achievement Showcase</b>
-
-<div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=uebidev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
-</div>
-
 ---
 
 ## 📊 <b>Detailed Contribution Metrics</b>
