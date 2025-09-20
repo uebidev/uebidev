@@ -1,19 +1,153 @@
-# Ruan Pablo - .NET Developer
+# 👋 Olá! Eu sou o **Ruan Pablo**
 
-Desenvolvedor .NET especializado em aplicações WPF enterprise e arquiteturas de microserviços.
+> **Desenvolvedor C# em transição para Full-Stack Web Developer**
 
-## Tech Stack
-- **Backend**: C#, .NET, REST APIs, gRPC
-- **Architecture**: MVVM, Clean Architecture, SOLID, Microservices  
-- **Desktop**: WPF Applications
-- **Database**: SQL Server, SQLite
-- **Tools**: Visual Studio, Git
+## 🚀 Sobre mim
 
-## Featured Projects
-### [SimpleSalesApi](link)
-API de vendas com arquitetura de microserviços utilizando C# e gRPC para comunicação entre serviços.
 
-**Technologies**: C#, REST API, gRPC, Microservices Architecture
+
+<br/>
+
+<div align="left">
+ 
+🔥 **C# Desktop Developer** transitioning to **Full-Stack Web Development**  
+🚀 Especialista em **WPF** e **REST APIs** | 🌱 Aprendendo **HTML, CSS, JavaScript**  
+🎯 **Goal**: Dominar o stack completo e integrar **backend C#** com **frontend moderno**
+
+</div>
 
 ---
-📧 uebidevgit@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/uebidev/)
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Technologies</b>
+
+<div align="left">
+
+### **🖥️ Backend & Desktop**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlite" />
+<br/>
+
+### **🎮 Languages I Code With**
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git" />
+<br/>
+
+### **📚 Currently Learning**
+<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,tailwind" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics Dashboard </b>
+
+<div align="left">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=uebidev&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uebidev&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-languages/?username=uebidev&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
+</div>
+---
+
+## 📊 <b>Detailed Contribution Metrics</b>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uebidev&custom_title=uebidev's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+---
+
+## 🚀 <b>Best Projects</b>
+
+<div align="center">
+<table>
+<tr>
+ <td width="100%">
+<h3 align="center">🌐🏪 SimpleSalesApi</h3>
+<div align="center">  
+<a href="https://github.com/uebidev/SimpleSalesApi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=uebidev&repo=SimpleSalesApi&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+
+
+---
+
+## 🔥 <b>Current Learning Path</b>
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 C# Desktop Expert] --> B[🌐 Web Technologies]
+    B --> C[📱 Frontend Basics]
+    C --> D[⚡ JavaScript Fundamentals] 
+    D --> E[🚀 React Framework]
+    E --> F[🔗 Full-Stack Integration]
+    F --> G[👑 Senior Full-Stack Developer]
+    
+    A1[✅ WPF Applications] --> A
+    A2[✅ REST APIs] --> A
+    A3[✅ MVVM Pattern] --> A
+    
+    B1[🔄 HTML5] --> B
+    B2[🔄 CSS3] --> B
+    B3[📋 Responsive Design] --> B
+```
+
+</div>
+
+---
+
+## 🎯 <b>Developer Stats & Metrics</b>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=uebidev&style=for-the-badge&color=F85D7F&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/uebidev?style=for-the-badge&color=F85D7F&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/github/stars/uebidev?style=for-the-badge&color=F85D7F&labelColor=0D1117&logo=github" />
+</div>
+
+---
+
+## 💌 <b>Connect With Me</b>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-pablo-73817237a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uebidev@gmail.com)
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<div align="center">
+
+**💭 "O código que você escreve hoje é o legado que você deixa para o amanhã."**
+
+*~ Um desenvolvedor em constante evolução ~*
+
+</div>
