@@ -35,7 +35,7 @@
 ---
 
 <br/>
-📧 uebidevgit@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/uebidev/)
+📧 Contato: uebidevgit@gmail.com | 💼 Linkedin: https://www.linkedin.com/in/uebidev/
 </div>
 
 
