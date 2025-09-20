@@ -16,4 +16,4 @@ API de vendas com arquitetura de microserviços utilizando C# e gRPC para comuni
 **Technologies**: C#, REST API, gRPC, Microservices Architecture
 
 ---
-📧 uebidev@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/uebidev/)
+📧 uebidevgit@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/uebidev/)
